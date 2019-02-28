@@ -1,0 +1,25 @@
+.card-img
+{
+    weight: 200px;
+    height: 200px;
+}
+.carousel-item
+{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.imgcar
+{
+    height: 400px;
+}
+
+.formulaire
+{
+    margin: 15px;
+}
+
+
